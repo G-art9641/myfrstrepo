@@ -120,6 +120,10 @@ print(difference)
 #%%
 print(3 + int( "3"))
 
+#%%
+def func(a,b):
+    return a+b
+
 
 #%%
 
@@ -140,4 +144,12 @@ are_square_return(")
 
 """"
 @author: kushagra
+
+
+""""
+
+""""
+
+@author: kushagra
+
 """"
